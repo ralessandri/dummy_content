@@ -8,10 +8,10 @@ $EM_CONF[$_EXTKEY] = array(
     'author_email' => 'info@colorcube.de',
     'author_company' => 'Colorcube',
     'state' => 'stable',
-    'version' => '1.3.1',
+    'version' => '1.4.0',
     'constraints' => array(
         'depends' => array(
-            'typo3' => '8.7.0-10.4.99',
+            'typo3' => '8.7.0-11.5.99',
         ),
         'conflicts' => array(),
         'suggests' => array(),
